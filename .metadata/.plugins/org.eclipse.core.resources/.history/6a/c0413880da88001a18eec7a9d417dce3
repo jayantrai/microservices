@@ -1,0 +1,5 @@
+package com.example.ratingsdataservices.models;
+
+public class Rating {
+
+}
