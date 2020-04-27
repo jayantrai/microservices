@@ -1,0 +1,5 @@
+package com.example.moviecatalogservices.resources;
+
+public class MovieCatalagResource {
+
+}

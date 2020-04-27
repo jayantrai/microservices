@@ -1493,3 +1493,158 @@ Binding(COMMAND+SHIFT+F10,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:13.332
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:13.334
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2e2c7e1[org.springframework.tooling.boot.ls:1.15.0.202001210741(id=998)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:13.339
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:13.400
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.118
+!MESSAGE Boot LS startup time from start to initialized: 8761ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.183
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KbFvraxUisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.218
+!MESSAGE subscribing to classpath changes: sts4.classpath.KbFvraxU isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.220
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.224
+!MESSAGE subsribers = {sts4.classpath.KbFvraxU=Send Classpath Notifications(1038)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.225
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.225
+!MESSAGE project movie-catalog-services ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.226
+!MESSAGE project movie-info-services ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.226
+!MESSAGE Preparing classpath changed notification movie-catalog-services
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.226
+!MESSAGE project ratings-data-services ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.226
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.226
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.227
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KbFvraxU => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.231
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.232
+!MESSAGE buffering callback sts4.classpath.KbFvraxU movie-catalog-services false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.233
+!MESSAGE Preparing classpath changed notification movie-info-services
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.233
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.239
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.241
+!MESSAGE buffering callback sts4.classpath.KbFvraxU movie-info-services false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.241
+!MESSAGE Preparing classpath changed notification ratings-data-services
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.242
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.244
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.245
+!MESSAGE buffering callback sts4.classpath.KbFvraxU ratings-data-services false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.245
+!MESSAGE executing callback sts4.classpath.KbFvraxU 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-04-27 17:24:22.283
+!MESSAGE executing callback sts4.classpath.KbFvraxU SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2020-04-27 17:25:19.485
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.jface 2 0 2020-04-27 17:28:13.007
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-27 17:28:13.007
+!MESSAGE A conflict occurred for ALT+ARROW_UP:
+Binding(ALT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.maximize,Maximize Active View or Editor,
+		,
+		Category(org.eclipse.tm.terminal.category1,Terminal view commands,Terminal view commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1db62a6c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.tm.terminal.EditContext,,,system)
+Binding(ALT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.moveLineUp,Move Lines Up,
+		Moves the selected lines up,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@26243f9f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-27 17:28:13.007
+!MESSAGE A conflict occurred for ALT+ARROW_RIGHT:
+Binding(ALT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.quickaccess,Quick Access,
+		,
+		Category(org.eclipse.tm.terminal.category1,Terminal view commands,Terminal view commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@72bc57b6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.tm.terminal.EditContext,,,system)
+Binding(ALT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.goto.wordNext,Next Word,
+		Go to the next word,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@d1a75c8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-27 17:28:13.007
+!MESSAGE A conflict occurred for COMMAND+SHIFT+C:
+Binding(COMMAND+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.toggle.comment,Toggle Comment,
+		Toggle comment the selected lines,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@21d3db4d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(COMMAND+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.copy,Copy,
+		,
+		Category(org.eclipse.tm.terminal.category1,Terminal view commands,Terminal view commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@268cc02f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.tm.terminal.EditContext,,,system)
+Binding(COMMAND+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@361d32af,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)

@@ -173,3 +173,57 @@ Caused by: java.nio.file.NoSuchFileException: /Users/raijayant/eclipse-workspace
 2020-04-27 17:15:01,280 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-04-27 17:15:01,282 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-04-27 17:15:01,282 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/ratings-data-services/src/test/resources
+2020-04-27 17:24:13,984 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:24:13,987 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-27 17:24:13,988 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-27 17:24:13,991 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:24:13,991 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/movie-catalog-services/src/test/resources
+2020-04-27 17:24:14,023 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:24:14,023 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-27 17:24:14,024 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-27 17:24:14,026 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:24:14,026 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/movie-info-services/src/test/resources
+2020-04-27 17:24:14,050 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:24:14,051 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-27 17:24:14,051 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-27 17:24:14,053 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:24:14,053 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/ratings-data-services/src/test/resources
+2020-04-27 17:25:56,812 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:25:56,815 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-27 17:25:56,822 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-27 17:25:56,824 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:25:56,824 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/movie-catalog-services/src/test/resources
+2020-04-27 17:26:05,796 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @2986359ms to org.eclipse.jetty.util.log.Slf4jLog
+2020-04-27 17:26:05,943 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.24.v20191120; built: 2019-11-22T15:55:43.345Z; git: 363d5f2df3a8a28de40604320230664b9c793c16; jvm 13.0.2+8
+2020-04-27 17:26:05,966 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2020-04-27 17:26:05,967 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2020-04-27 17:26:05,968 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2020-04-27 17:26:05,997 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@42c6da8d{/help,null,AVAILABLE}
+2020-04-27 17:26:06,010 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@20dbf9a6{HTTP/1.1,[http/1.1]}{127.0.0.1:53437}
+2020-04-27 17:26:06,011 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @2986574ms
+2020-04-27 17:26:06,011 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2020-04-27 17:27:39,726 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:27:39,727 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-27 17:27:39,728 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-27 17:27:39,731 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:27:39,731 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/movie-catalog-services/src/test/resources
+2020-04-27 17:28:34,163 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:28:34,164 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-27 17:28:34,166 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-27 17:28:34,167 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:28:34,167 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/movie-catalog-services/src/test/resources
+2020-04-27 17:29:37,201 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:29:37,201 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-27 17:29:37,203 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-27 17:29:37,204 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:29:37,204 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/movie-catalog-services/src/test/resources
+2020-04-27 17:32:00,150 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:32:00,152 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-27 17:32:00,153 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-27 17:32:00,156 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:32:00,156 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/movie-catalog-services/src/test/resources
+2020-04-27 17:34:55,941 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:34:55,942 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-27 17:34:55,943 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-27 17:34:55,944 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-27 17:34:55,944 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/movie-catalog-services/src/test/resources
