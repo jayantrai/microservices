@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=
-GitRepositoriesView.GitDirectories.relative=
+GitRepositoriesView.GitDirectories=/Users/raijayant/eclipse-workspace/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:
 RepositoryGroups.uuids=
 RepositorySearchDialogSearchPath=/Users/raijayant/Desktop/Backend and Java/coronavirus-tracker
 core_autoIgnoreDerivedResources=false
