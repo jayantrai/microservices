@@ -33,7 +33,7 @@ public class MovieCatalagResource {
 				
 		
 		// we are calling two api
-		UserRating ratings = restTemplate.getForObject("http://localhost:8082/ratingsdata/users/" + userId, UserRating.class);
+		UserRating ratings = restTemplate.getForObject("http://ratings-data-services/ratingsdata/users/" + userId, UserRating.class);
 		
 //		List<Rating> ratings = Arrays.asList(
 //				new Rating("1234", 4),
@@ -42,7 +42,7 @@ public class MovieCatalagResource {
 		
 		return ratings.getUserRating().stream().map(rating -> {
 			// For each movie ID, call movie info service and get details
-			Movie movie = restTemplate.getForObject("http://localhost:8081/movies/" + rating.getMovieId(), Movie.class);
+			Movie movie = restTemplate.getForObject("http://movie-info-service/movies/" + rating.getMovieId(), Movie.class);
 			
 //			Movie movie = webClientBuilder.build()
 //				.get()
