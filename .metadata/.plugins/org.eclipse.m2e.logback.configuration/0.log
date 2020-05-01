@@ -1547,3 +1547,477 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.activat
 2020-04-30 19:03:25,952 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-04-30 19:03:25,953 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-04-30 19:03:25,953 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:07:08,998 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-01 01:07:10,862 [Worker-13: Updating indexes] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2020-05-01 01:07:15,680 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movie-catalog-services:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/microservices/movie-catalog-services/pom.xml.
+2020-05-01 01:07:17,381 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:discovery-server:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/discovery-server/pom.xml.
+2020-05-01 01:07:18,022 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ratings-data-services:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/microservices/ratings-data-services/pom.xml.
+2020-05-01 01:07:18,306 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movie-info-services:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/microservices/movie-info-services/pom.xml.
+2020-05-01 01:07:31,949 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:07:31,954 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-01 01:07:32,036 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:07:32,043 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:07:32,043 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:07:34,745 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:07:34,914 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-01 01:07:34,937 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:07:34,940 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:07:34,940 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/movie-catalog-services/src/test/resources
+2020-05-01 01:07:35,735 [Worker-13: Updating indexes] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 24874 ms
+2020-05-01 01:07:35,993 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:07:35,994 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-01 01:07:35,995 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:07:35,997 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:07:35,997 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/movie-info-services/src/test/resources
+2020-05-01 01:07:36,505 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:07:36,506 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-01 01:07:36,521 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:07:36,523 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:07:36,523 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/ratings-data-services/src/test/resources
+2020-05-01 01:08:45,394 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:08:45,399 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-01 01:08:45,400 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:08:45,403 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:08:45,403 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:09:14,935 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:discovery-server:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/discovery-server/pom.xml.
+2020-05-01 01:09:15,389 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:09:15,389 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:09:15,389 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:09:15,391 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:09:15,391 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:09:16,982 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:09:16,982 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-01 01:09:16,983 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:09:16,984 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:09:16,984 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:09:37,523 [Worker-15: Launching Executing install in _Users_raijayant_eclipse-workspace_discovery-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/raijayant/eclipse-workspace/discovery-server
+2020-05-01 01:09:37,524 [Worker-15: Launching Executing install in _Users_raijayant_eclipse-workspace_discovery-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2020-05-01 01:09:52,245 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:09:52,246 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-01 01:09:52,246 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:09:52,249 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:09:52,249 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:10:32,670 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:10:32,671 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:10:32,671 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:10:32,673 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:10:32,673 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:11:24,730 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:11:24,730 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:11:24,730 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:11:24,733 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:11:24,733 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:11:30,763 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:11:30,763 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:11:30,763 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:11:30,765 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:11:30,765 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:11:40,205 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:11:40,206 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:11:40,206 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:11:40,208 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:11:40,208 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:11:58,442 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:11:58,443 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:11:58,443 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:11:58,444 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:11:58,445 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:12:11,277 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:12:11,277 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:12:11,277 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:12:11,279 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:12:11,280 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:13:22,823 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:discovery-server:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/discovery-server/pom.xml.
+2020-05-01 01:13:23,167 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:13:23,167 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:13:23,167 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:13:23,168 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:13:23,168 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:13:24,055 [Worker-11: Updating discovery-server Sources] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-01 01:13:24,218 [Worker-11: Updating discovery-server Sources] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:discovery-server:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/discovery-server/pom.xml.
+2020-05-01 01:13:24,535 [Worker-11: Updating discovery-server Sources] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /discovery-server/src/main/java
+2020-05-01 01:13:24,535 [Worker-11: Updating discovery-server Sources] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /discovery-server/src/main/resources
+2020-05-01 01:13:24,536 [Worker-11: Updating discovery-server Sources] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /discovery-server/src/main/resources
+2020-05-01 01:13:24,536 [Worker-11: Updating discovery-server Sources] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /discovery-server/src/test/java
+2020-05-01 01:13:24,729 [Worker-11: Updating discovery-server Sources] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-05-01 01:13:25,225 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:13:25,225 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-01 01:13:25,226 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:13:25,228 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:13:25,228 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:13:56,716 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-05-01 01:14:08,686 [Worker-1: Launching discovery-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/raijayant/eclipse-workspace/discovery-server
+2020-05-01 01:14:08,686 [Worker-1: Launching discovery-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2020-05-01 01:14:19,401 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-01 01:14:27,881 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-05-01 01:14:29,981 [Worker-5: Launching discovery-server (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/raijayant/eclipse-workspace/discovery-server
+2020-05-01 01:14:29,981 [Worker-5: Launching discovery-server (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2020-05-01 01:15:06,688 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:discovery-server:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/discovery-server/pom.xml.
+2020-05-01 01:15:07,039 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /discovery-server/src/main/java
+2020-05-01 01:15:07,039 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /discovery-server/src/main/resources
+2020-05-01 01:15:07,039 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /discovery-server/src/main/resources
+2020-05-01 01:15:07,040 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /discovery-server/src/test/java
+2020-05-01 01:15:07,327 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-01 01:15:07,443 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:discovery-server:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/discovery-server/pom.xml.
+2020-05-01 01:15:07,896 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /discovery-server/src/main/java
+2020-05-01 01:15:07,896 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /discovery-server/src/main/resources
+2020-05-01 01:15:07,900 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /discovery-server/src/main/resources
+2020-05-01 01:15:07,900 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /discovery-server/src/test/java
+2020-05-01 01:15:08,131 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-05-01 01:15:08,585 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:15:08,586 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-01 01:15:08,586 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:15:08,588 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:15:08,588 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:15:18,189 [Worker-5: Launching Executing clean in _Users_raijayant_eclipse-workspace_discovery-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/raijayant/eclipse-workspace/discovery-server
+2020-05-01 01:15:18,189 [Worker-5: Launching Executing clean in _Users_raijayant_eclipse-workspace_discovery-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-05-01 01:15:19,974 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:15:19,975 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-01 01:15:19,975 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:15:19,977 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:15:19,977 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:15:29,035 [Worker-7: Launching Executing install in _Users_raijayant_eclipse-workspace_discovery-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/raijayant/eclipse-workspace/discovery-server
+2020-05-01 01:15:29,036 [Worker-7: Launching Executing install in _Users_raijayant_eclipse-workspace_discovery-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-05-01 01:15:42,445 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:15:42,445 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-01 01:15:42,446 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:15:42,447 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:15:42,447 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:17:19,603 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-dependencies/Hoxton.M2/spring-cloud-dependencies-Hoxton.M2.pom
+2020-05-01 01:17:19,665 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-dependencies/Hoxton.M2/spring-cloud-dependencies-Hoxton.M2.pom
+2020-05-01 01:17:21,057 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-dependencies-parent/2.2.0.M4/spring-cloud-dependencies-parent-2.2.0.M4.pom
+2020-05-01 01:17:21,111 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-dependencies-parent/2.2.0.M4/spring-cloud-dependencies-parent-2.2.0.M4.pom
+2020-05-01 01:17:21,208 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-commons-dependencies/2.2.0.M2/spring-cloud-commons-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:21,262 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-commons-dependencies/2.2.0.M2/spring-cloud-commons-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:22,166 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-dependencies/2.2.0.M2/spring-cloud-netflix-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:22,223 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-dependencies/2.2.0.M2/spring-cloud-netflix-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:22,280 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-stream-dependencies/Horsham.M3/spring-cloud-stream-dependencies-Horsham.M3.pom
+2020-05-01 01:17:22,333 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-stream-dependencies/Horsham.M3/spring-cloud-stream-dependencies-Horsham.M3.pom
+2020-05-01 01:17:24,847 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-task-dependencies/2.2.0.M2/spring-cloud-task-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:24,900 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-task-dependencies/2.2.0.M2/spring-cloud-task-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:24,957 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-dependencies-parent/2.2.0.M1/spring-cloud-dependencies-parent-2.2.0.M1.pom
+2020-05-01 01:17:25,012 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-dependencies-parent/2.2.0.M1/spring-cloud-dependencies-parent-2.2.0.M1.pom
+2020-05-01 01:17:25,065 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-config-dependencies/2.2.0.M2/spring-cloud-config-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:25,116 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-config-dependencies/2.2.0.M2/spring-cloud-config-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:25,217 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-function-dependencies/3.0.0.M2/spring-cloud-function-dependencies-3.0.0.M2.pom
+2020-05-01 01:17:25,269 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-function-dependencies/3.0.0.M2/spring-cloud-function-dependencies-3.0.0.M2.pom
+2020-05-01 01:17:25,381 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-gateway-dependencies/2.2.0.M2/spring-cloud-gateway-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:25,433 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-gateway-dependencies/2.2.0.M2/spring-cloud-gateway-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:25,484 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-dependencies/2.2.0.M2/spring-cloud-consul-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:25,541 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-consul-dependencies/2.2.0.M2/spring-cloud-consul-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:25,638 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-sleuth-dependencies/2.2.0.M2/spring-cloud-sleuth-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:25,692 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-sleuth-dependencies/2.2.0.M2/spring-cloud-sleuth-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:25,745 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/zipkin/brave/brave-bom/5.6.10/brave-bom-5.6.10.pom
+2020-05-01 01:17:26,090 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-bom/5.6.10/brave-bom-5.6.10.pom
+2020-05-01 01:17:26,146 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-bom/5.6.10/brave-bom-5.6.10.pom
+2020-05-01 01:17:26,194 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/zipkin/reporter2/zipkin-reporter-bom/2.10.2/zipkin-reporter-bom-2.10.2.pom
+2020-05-01 01:17:26,203 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/reporter2/zipkin-reporter-bom/2.10.2/zipkin-reporter-bom-2.10.2.pom
+2020-05-01 01:17:26,213 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/reporter2/zipkin-reporter-bom/2.10.2/zipkin-reporter-bom-2.10.2.pom
+2020-05-01 01:17:29,391 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-vault-dependencies/2.2.0.M2/spring-cloud-vault-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:29,446 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-vault-dependencies/2.2.0.M2/spring-cloud-vault-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:29,496 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-zookeeper-dependencies/2.2.0.M2/spring-cloud-zookeeper-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:29,549 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-zookeeper-dependencies/2.2.0.M2/spring-cloud-zookeeper-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:29,638 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-security-dependencies/2.2.0.M2/spring-cloud-security-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:29,691 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-security-dependencies/2.2.0.M2/spring-cloud-security-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:36,081 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/2.2.0.M2/spring-cloud-cloudfoundry-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:36,135 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/2.2.0.M2/spring-cloud-cloudfoundry-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:40,243 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-bus-dependencies/2.2.0.M2/spring-cloud-bus-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:40,295 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-bus-dependencies/2.2.0.M2/spring-cloud-bus-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:40,392 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-contract-dependencies/2.2.0.M2/spring-cloud-contract-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:40,450 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-contract-dependencies/2.2.0.M2/spring-cloud-contract-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:43,787 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-aws-dependencies/2.2.0.M2/spring-cloud-aws-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:43,842 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-aws-dependencies/2.2.0.M2/spring-cloud-aws-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:43,896 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-openfeign-dependencies/2.2.0.M2/spring-cloud-openfeign-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:43,949 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-openfeign-dependencies/2.2.0.M2/spring-cloud-openfeign-dependencies-2.2.0.M2.pom
+2020-05-01 01:17:44,041 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-kubernetes-dependencies/1.1.0.M2/spring-cloud-kubernetes-dependencies-1.1.0.M2.pom
+2020-05-01 01:17:44,094 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-kubernetes-dependencies/1.1.0.M2/spring-cloud-kubernetes-dependencies-1.1.0.M2.pom
+2020-05-01 01:17:44,147 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/fabric8/kubernetes-client-bom/4.2.2/kubernetes-client-bom-4.2.2.pom
+2020-05-01 01:17:44,156 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/fabric8/kubernetes-client-bom/4.2.2/kubernetes-client-bom-4.2.2.pom
+2020-05-01 01:17:44,166 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/fabric8/kubernetes-client-bom/4.2.2/kubernetes-client-bom-4.2.2.pom
+2020-05-01 01:17:48,005 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-gcp-dependencies/1.2.0.M2/spring-cloud-gcp-dependencies-1.2.0.M2.pom
+2020-05-01 01:17:48,058 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-gcp-dependencies/1.2.0.M2/spring-cloud-gcp-dependencies-1.2.0.M2.pom
+2020-05-01 01:17:48,115 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/google/cloud/google-cloud-bom/0.103.0-alpha/google-cloud-bom-0.103.0-alpha.pom
+2020-05-01 01:17:48,125 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/cloud/google-cloud-bom/0.103.0-alpha/google-cloud-bom-0.103.0-alpha.pom
+2020-05-01 01:17:48,141 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/cloud/google-cloud-bom/0.103.0-alpha/google-cloud-bom-0.103.0-alpha.pom
+2020-05-01 01:17:48,189 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/google/api/gax-bom/1.47.1/gax-bom-1.47.1.pom
+2020-05-01 01:17:48,197 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/api/gax-bom/1.47.1/gax-bom-1.47.1.pom
+2020-05-01 01:17:48,206 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/api/gax-bom/1.47.1/gax-bom-1.47.1.pom
+2020-05-01 01:17:48,650 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movie-catalog-services:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/microservices/movie-catalog-services/pom.xml.
+2020-05-01 01:17:48,920 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:discovery-server:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/discovery-server/pom.xml.
+2020-05-01 01:17:49,248 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.2.0.M2/spring-cloud-starter-netflix-eureka-server-2.2.0.M2.pom
+2020-05-01 01:17:49,300 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.2.0.M2/spring-cloud-starter-netflix-eureka-server-2.2.0.M2.pom
+2020-05-01 01:17:49,423 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix/2.2.0.M2/spring-cloud-starter-netflix-2.2.0.M2.pom
+2020-05-01 01:17:49,473 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix/2.2.0.M2/spring-cloud-starter-netflix-2.2.0.M2.pom
+2020-05-01 01:17:49,566 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix/2.2.0.M2/spring-cloud-netflix-2.2.0.M2.pom
+2020-05-01 01:17:58,817 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix/2.2.0.M2/spring-cloud-netflix-2.2.0.M2.pom
+2020-05-01 01:17:58,942 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-build/2.2.0.M4/spring-cloud-build-2.2.0.M4.pom
+2020-05-01 01:17:58,999 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-build/2.2.0.M4/spring-cloud-build-2.2.0.M4.pom
+2020-05-01 01:17:59,483 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-contract-dependencies/2.1.1.RELEASE/spring-cloud-contract-dependencies-2.1.1.RELEASE.pom
+2020-05-01 01:17:59,537 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-contract-dependencies/2.1.1.RELEASE/spring-cloud-contract-dependencies-2.1.1.RELEASE.pom
+2020-05-01 01:17:59,627 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.3.RELEASE/spring-cloud-dependencies-parent-2.1.3.RELEASE.pom
+2020-05-01 01:17:59,684 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.3.RELEASE/spring-cloud-dependencies-parent-2.1.3.RELEASE.pom
+2020-05-01 01:18:04,605 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-build-dependencies/2.2.0.M4/spring-cloud-build-dependencies-2.2.0.M4.pom
+2020-05-01 01:18:04,659 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-build-dependencies/2.2.0.M4/spring-cloud-build-dependencies-2.2.0.M4.pom
+2020-05-01 01:18:04,762 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-dependencies/2.2.0.M5/spring-boot-dependencies-2.2.0.M5.pom
+2020-05-01 01:18:04,852 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-dependencies/2.2.0.M5/spring-boot-dependencies-2.2.0.M5.pom
+2020-05-01 01:18:05,605 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/fasterxml/jackson/jackson-bom/2.9.9/jackson-bom-2.9.9.pom
+2020-05-01 01:18:05,616 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.9.9/jackson-bom-2.9.9.pom
+2020-05-01 01:18:05,625 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.9.9/jackson-bom-2.9.9.pom
+2020-05-01 01:18:05,676 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-bom/4.1.38.Final/netty-bom-4.1.38.Final.pom
+2020-05-01 01:18:05,686 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.38.Final/netty-bom-4.1.38.Final.pom
+2020-05-01 01:18:05,695 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.38.Final/netty-bom-4.1.38.Final.pom
+2020-05-01 01:18:05,750 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/io/projectreactor/reactor-bom/Dysprosium-M3/reactor-bom-Dysprosium-M3.pom
+2020-05-01 01:18:05,803 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/reactor-bom/Dysprosium-M3/reactor-bom-Dysprosium-M3.pom
+2020-05-01 01:18:05,857 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/apache/logging/log4j/log4j-bom/2.12.0/log4j-bom-2.12.0.pom
+2020-05-01 01:18:05,865 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.12.0/log4j-bom-2.12.0.pom
+2020-05-01 01:18:05,874 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.12.0/log4j-bom-2.12.0.pom
+2020-05-01 01:18:05,924 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/eclipse/jetty/jetty-bom/9.4.19.v20190610/jetty-bom-9.4.19.v20190610.pom
+2020-05-01 01:18:05,929 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.19.v20190610/jetty-bom-9.4.19.v20190610.pom
+2020-05-01 01:18:05,937 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.19.v20190610/jetty-bom-9.4.19.v20190610.pom
+2020-05-01 01:18:05,983 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/glassfish/jersey/jersey-bom/2.29/jersey-bom-2.29.pom
+2020-05-01 01:18:05,992 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.29/jersey-bom-2.29.pom
+2020-05-01 01:18:06,001 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.29/jersey-bom-2.29.pom
+2020-05-01 01:18:06,048 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/jetbrains/kotlin/kotlin-bom/1.3.41/kotlin-bom-1.3.41.pom
+2020-05-01 01:18:06,056 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.3.41/kotlin-bom-1.3.41.pom
+2020-05-01 01:18:06,064 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.3.41/kotlin-bom-1.3.41.pom
+2020-05-01 01:18:06,111 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.3.0-RC/kotlinx-coroutines-bom-1.3.0-RC.pom
+2020-05-01 01:18:06,120 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.3.0-RC/kotlinx-coroutines-bom-1.3.0-RC.pom
+2020-05-01 01:18:06,128 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.3.0-RC/kotlinx-coroutines-bom-1.3.0-RC.pom
+2020-05-01 01:18:06,605 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/spring-framework-bom/5.2.0.RC1/spring-framework-bom-5.2.0.RC1.pom
+2020-05-01 01:18:06,657 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-framework-bom/5.2.0.RC1/spring-framework-bom-5.2.0.RC1.pom
+2020-05-01 01:18:06,750 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/data/spring-data-releasetrain/Moore-RC2/spring-data-releasetrain-Moore-RC2.pom
+2020-05-01 01:18:06,804 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/data/spring-data-releasetrain/Moore-RC2/spring-data-releasetrain-Moore-RC2.pom
+2020-05-01 01:18:06,863 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/data/build/spring-data-build/2.2.0.RC2/spring-data-build-2.2.0.RC2.pom
+2020-05-01 01:18:07,609 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/data/build/spring-data-build/2.2.0.RC2/spring-data-build-2.2.0.RC2.pom
+2020-05-01 01:18:07,696 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/integration/spring-integration-bom/5.2.0.M4/spring-integration-bom-5.2.0.M4.pom
+2020-05-01 01:18:07,749 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/integration/spring-integration-bom/5.2.0.M4/spring-integration-bom-5.2.0.M4.pom
+2020-05-01 01:18:07,802 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/security/spring-security-bom/5.2.0.M4/spring-security-bom-5.2.0.M4.pom
+2020-05-01 01:18:07,856 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/security/spring-security-bom/5.2.0.M4/spring-security-bom-5.2.0.M4.pom
+2020-05-01 01:18:07,915 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/session/spring-session-bom/Corn-M3/spring-session-bom-Corn-M3.pom
+2020-05-01 01:18:07,966 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/session/spring-session-bom/Corn-M3/spring-session-bom-Corn-M3.pom
+2020-05-01 01:18:08,061 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter/2.2.0.M2/spring-cloud-starter-2.2.0.M2.pom
+2020-05-01 01:18:08,112 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter/2.2.0.M2/spring-cloud-starter-2.2.0.M2.pom
+2020-05-01 01:18:10,127 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-commons-parent/2.2.0.M2/spring-cloud-commons-parent-2.2.0.M2.pom
+2020-05-01 01:18:10,178 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-commons-parent/2.2.0.M2/spring-cloud-commons-parent-2.2.0.M2.pom
+2020-05-01 01:18:10,318 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-context/2.2.0.M2/spring-cloud-context-2.2.0.M2.pom
+2020-05-01 01:18:10,370 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-context/2.2.0.M2/spring-cloud-context-2.2.0.M2.pom
+2020-05-01 01:18:10,636 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-commons/2.2.0.M2/spring-cloud-commons-2.2.0.M2.pom
+2020-05-01 01:18:10,722 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-commons/2.2.0.M2/spring-cloud-commons-2.2.0.M2.pom
+2020-05-01 01:18:11,108 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.0.M2/spring-cloud-netflix-eureka-server-2.2.0.M2.pom
+2020-05-01 01:18:11,193 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.0.M2/spring-cloud-netflix-eureka-server-2.2.0.M2.pom
+2020-05-01 01:18:11,424 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.2.0.M2/spring-cloud-netflix-hystrix-2.2.0.M2.pom
+2020-05-01 01:18:11,597 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.2.0.M2/spring-cloud-netflix-hystrix-2.2.0.M2.pom
+2020-05-01 01:18:11,698 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.0.M2/spring-cloud-netflix-eureka-client-2.2.0.M2.pom
+2020-05-01 01:18:11,870 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.0.M2/spring-cloud-netflix-eureka-client-2.2.0.M2.pom
+2020-05-01 01:18:12,038 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12.pom
+2020-05-01 01:18:12,167 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12.pom
+2020-05-01 01:18:12,177 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12.pom
+2020-05-01 01:18:12,334 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/eureka/eureka-core/1.9.12/eureka-core-1.9.12.pom
+2020-05-01 01:18:12,343 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.12/eureka-core-1.9.12.pom
+2020-05-01 01:18:12,351 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.12/eureka-core-1.9.12.pom
+2020-05-01 01:18:12,510 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.2.0.M2/spring-cloud-starter-netflix-archaius-2.2.0.M2.pom
+2020-05-01 01:18:12,675 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.2.0.M2/spring-cloud-starter-netflix-archaius-2.2.0.M2.pom
+2020-05-01 01:18:12,843 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.0.M2/spring-cloud-netflix-ribbon-2.2.0.M2.pom
+2020-05-01 01:18:13,016 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.0.M2/spring-cloud-netflix-ribbon-2.2.0.M2.pom
+2020-05-01 01:18:13,307 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.2.0.M2/spring-cloud-netflix-archaius-2.2.0.M2.pom
+2020-05-01 01:18:13,568 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.2.0.M2/spring-cloud-netflix-archaius-2.2.0.M2.pom
+2020-05-01 01:18:13,817 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.0.M2/spring-cloud-starter-netflix-ribbon-2.2.0.M2.pom
+2020-05-01 01:18:13,990 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.0.M2/spring-cloud-starter-netflix-ribbon-2.2.0.M2.pom
+2020-05-01 01:18:19,610 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.2.0.M2/spring-cloud-starter-netflix-eureka-server-2.2.0.M2.jar
+2020-05-01 01:18:19,672 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.2.0.M2/spring-cloud-starter-netflix-eureka-server-2.2.0.M2.jar
+2020-05-01 01:18:19,769 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter/2.2.0.M2/spring-cloud-starter-2.2.0.M2.jar
+2020-05-01 01:18:19,824 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter/2.2.0.M2/spring-cloud-starter-2.2.0.M2.jar
+2020-05-01 01:18:22,942 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-context/2.2.0.M2/spring-cloud-context-2.2.0.M2.jar
+2020-05-01 01:18:23,000 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-context/2.2.0.M2/spring-cloud-context-2.2.0.M2.jar
+2020-05-01 01:18:23,096 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-commons/2.2.0.M2/spring-cloud-commons-2.2.0.M2.jar
+2020-05-01 01:18:23,218 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-commons/2.2.0.M2/spring-cloud-commons-2.2.0.M2.jar
+2020-05-01 01:18:23,317 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.0.M2/spring-cloud-netflix-eureka-server-2.2.0.M2.jar
+2020-05-01 01:18:23,505 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.0.M2/spring-cloud-netflix-eureka-server-2.2.0.M2.jar
+2020-05-01 01:18:24,712 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.2.0.M2/spring-cloud-netflix-hystrix-2.2.0.M2.jar
+2020-05-01 01:18:24,764 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.2.0.M2/spring-cloud-netflix-hystrix-2.2.0.M2.jar
+2020-05-01 01:18:25,622 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.0.M2/spring-cloud-netflix-eureka-client-2.2.0.M2.jar
+2020-05-01 01:18:25,679 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.0.M2/spring-cloud-netflix-eureka-client-2.2.0.M2.jar
+2020-05-01 01:18:25,728 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12.jar
+2020-05-01 01:18:25,777 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/eureka/eureka-core/1.9.12/eureka-core-1.9.12.jar
+2020-05-01 01:18:25,891 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.2.0.M2/spring-cloud-starter-netflix-archaius-2.2.0.M2.jar
+2020-05-01 01:18:25,944 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.2.0.M2/spring-cloud-starter-netflix-archaius-2.2.0.M2.jar
+2020-05-01 01:18:26,055 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.0.M2/spring-cloud-netflix-ribbon-2.2.0.M2.jar
+2020-05-01 01:18:26,140 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.0.M2/spring-cloud-netflix-ribbon-2.2.0.M2.jar
+2020-05-01 01:18:29,661 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.2.0.M2/spring-cloud-netflix-archaius-2.2.0.M2.jar
+2020-05-01 01:18:29,713 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.2.0.M2/spring-cloud-netflix-archaius-2.2.0.M2.jar
+2020-05-01 01:18:29,818 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.0.M2/spring-cloud-starter-netflix-ribbon-2.2.0.M2.jar
+2020-05-01 01:18:29,870 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.0.M2/spring-cloud-starter-netflix-ribbon-2.2.0.M2.jar
+2020-05-01 01:18:30,011 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12.jar
+2020-05-01 01:18:30,050 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12.jar
+2020-05-01 01:18:30,058 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.12/eureka-core-1.9.12.jar
+2020-05-01 01:18:30,086 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.12/eureka-core-1.9.12.jar
+2020-05-01 01:18:30,166 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ratings-data-services:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/microservices/ratings-data-services/pom.xml.
+2020-05-01 01:18:30,248 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movie-info-services:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/microservices/movie-info-services/pom.xml.
+2020-05-01 01:18:30,356 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:discovery-server:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/discovery-server/pom.xml.
+2020-05-01 01:18:30,432 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:movie-catalog-services:0.0.1-SNAPSHOT @ /Users/raijayant/eclipse-workspace/microservices/movie-catalog-services/pom.xml.
+2020-05-01 01:18:30,875 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:18:30,878 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:18:30,878 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:18:30,880 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:18:30,880 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:18:31,802 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:18:31,802 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-01 01:18:31,812 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:18:31,816 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:18:31,816 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources
+2020-05-01 01:18:32,231 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:18:32,231 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:18:32,231 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:18:32,232 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:18:32,232 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/movie-catalog-services/src/test/resources
+2020-05-01 01:18:32,492 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:18:32,493 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:18:32,493 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:18:32,494 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:18:32,494 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/movie-info-services/src/test/resources
+2020-05-01 01:18:32,734 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:18:32,735 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:18:32,735 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:18:32,736 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:18:32,736 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/microservices/ratings-data-services/src/test/resources
+2020-05-01 01:18:33,396 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.2.0.M2/spring-cloud-starter-netflix-eureka-server-2.2.0.M2-sources.jar
+2020-05-01 01:18:34,963 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.2.0.M2/spring-cloud-starter-netflix-eureka-server-2.2.0.M2-sources.jar
+2020-05-01 01:18:34,977 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:2.2.0.M2
+2020-05-01 01:18:40,755 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.2.0.M2/spring-cloud-starter-netflix-eureka-server-2.2.0.M2-javadoc.jar
+2020-05-01 01:18:40,889 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.2.0.M2/spring-cloud-starter-netflix-eureka-server-2.2.0.M2-javadoc.jar
+2020-05-01 01:18:40,914 [Worker-0: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:2.2.0.M2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:2.2.0.M2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2020-05-01 01:18:41,056 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter/2.2.0.M2/spring-cloud-starter-2.2.0.M2-sources.jar
+2020-05-01 01:18:41,107 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter/2.2.0.M2/spring-cloud-starter-2.2.0.M2-sources.jar
+2020-05-01 01:18:41,121 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter:2.2.0.M2
+2020-05-01 01:18:41,217 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter/2.2.0.M2/spring-cloud-starter-2.2.0.M2-javadoc.jar
+2020-05-01 01:18:41,524 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/2.2.0.M2/spring-cloud-starter-2.2.0.M2-javadoc.jar
+2020-05-01 01:18:41,526 [Worker-0: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter:2.2.0.M2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter:jar:javadoc:2.2.0.M2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2020-05-01 01:18:41,663 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-context/2.2.0.M2/spring-cloud-context-2.2.0.M2-sources.jar
+2020-05-01 01:18:41,754 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-context/2.2.0.M2/spring-cloud-context-2.2.0.M2-sources.jar
+2020-05-01 01:18:41,767 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-context:2.2.0.M2
+2020-05-01 01:18:52,823 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-context/2.2.0.M2/spring-cloud-context-2.2.0.M2-javadoc.jar
+2020-05-01 01:18:52,898 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-context/2.2.0.M2/spring-cloud-context-2.2.0.M2-javadoc.jar
+2020-05-01 01:18:52,911 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-context:2.2.0.M2
+2020-05-01 01:18:55,402 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-commons/2.2.0.M2/spring-cloud-commons-2.2.0.M2-sources.jar
+2020-05-01 01:18:55,476 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-commons/2.2.0.M2/spring-cloud-commons-2.2.0.M2-sources.jar
+2020-05-01 01:18:55,498 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-commons:2.2.0.M2
+2020-05-01 01:19:06,148 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-commons/2.2.0.M2/spring-cloud-commons-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:06,227 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-commons/2.2.0.M2/spring-cloud-commons-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:06,235 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-commons:2.2.0.M2
+2020-05-01 01:19:06,757 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.0.M2/spring-cloud-netflix-eureka-server-2.2.0.M2-sources.jar
+2020-05-01 01:19:06,841 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.0.M2/spring-cloud-netflix-eureka-server-2.2.0.M2-sources.jar
+2020-05-01 01:19:06,851 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-eureka-server:2.2.0.M2
+2020-05-01 01:19:07,921 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.0.M2/spring-cloud-netflix-eureka-server-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:07,974 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.0.M2/spring-cloud-netflix-eureka-server-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:07,985 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-netflix-eureka-server:2.2.0.M2
+2020-05-01 01:19:08,128 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.2.0.M2/spring-cloud-netflix-hystrix-2.2.0.M2-sources.jar
+2020-05-01 01:19:08,192 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.2.0.M2/spring-cloud-netflix-hystrix-2.2.0.M2-sources.jar
+2020-05-01 01:19:08,200 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-hystrix:2.2.0.M2
+2020-05-01 01:19:11,681 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.2.0.M2/spring-cloud-netflix-hystrix-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:11,747 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.2.0.M2/spring-cloud-netflix-hystrix-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:11,757 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-netflix-hystrix:2.2.0.M2
+2020-05-01 01:19:18,557 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.0.M2/spring-cloud-netflix-eureka-client-2.2.0.M2-sources.jar
+2020-05-01 01:19:18,614 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.0.M2/spring-cloud-netflix-eureka-client-2.2.0.M2-sources.jar
+2020-05-01 01:19:18,626 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-eureka-client:2.2.0.M2
+2020-05-01 01:19:18,777 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.0.M2/spring-cloud-netflix-eureka-client-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:18,916 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.0.M2/spring-cloud-netflix-eureka-client-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:18,927 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-netflix-eureka-client:2.2.0.M2
+2020-05-01 01:19:19,022 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12-sources.jar
+2020-05-01 01:19:19,146 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12-sources.jar
+2020-05-01 01:19:19,198 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12-sources.jar
+2020-05-01 01:19:19,208 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-client:1.9.12
+2020-05-01 01:19:19,257 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12-javadoc.jar
+2020-05-01 01:19:19,309 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12-javadoc.jar
+2020-05-01 01:19:19,419 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.12/eureka-client-1.9.12-javadoc.jar
+2020-05-01 01:19:19,440 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.netflix.eureka:eureka-client:1.9.12
+2020-05-01 01:19:19,530 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/eureka/eureka-core/1.9.12/eureka-core-1.9.12-sources.jar
+2020-05-01 01:19:19,615 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.12/eureka-core-1.9.12-sources.jar
+2020-05-01 01:19:19,648 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.12/eureka-core-1.9.12-sources.jar
+2020-05-01 01:19:19,658 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-core:1.9.12
+2020-05-01 01:19:19,705 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/eureka/eureka-core/1.9.12/eureka-core-1.9.12-javadoc.jar
+2020-05-01 01:19:20,292 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.12/eureka-core-1.9.12-javadoc.jar
+2020-05-01 01:19:20,382 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.12/eureka-core-1.9.12-javadoc.jar
+2020-05-01 01:19:20,391 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.netflix.eureka:eureka-core:1.9.12
+2020-05-01 01:19:20,541 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.2.0.M2/spring-cloud-starter-netflix-archaius-2.2.0.M2-sources.jar
+2020-05-01 01:19:24,111 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.2.0.M2/spring-cloud-starter-netflix-archaius-2.2.0.M2-sources.jar
+2020-05-01 01:19:24,121 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-archaius:2.2.0.M2
+2020-05-01 01:19:24,224 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.2.0.M2/spring-cloud-starter-netflix-archaius-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:24,565 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.2.0.M2/spring-cloud-starter-netflix-archaius-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:24,567 [Worker-0: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-archaius:2.2.0.M2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:javadoc:2.2.0.M2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2020-05-01 01:19:24,722 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.0.M2/spring-cloud-netflix-ribbon-2.2.0.M2-sources.jar
+2020-05-01 01:19:24,807 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.0.M2/spring-cloud-netflix-ribbon-2.2.0.M2-sources.jar
+2020-05-01 01:19:24,818 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-ribbon:2.2.0.M2
+2020-05-01 01:19:26,382 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.0.M2/spring-cloud-netflix-ribbon-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:26,453 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.0.M2/spring-cloud-netflix-ribbon-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:26,464 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-netflix-ribbon:2.2.0.M2
+2020-05-01 01:19:26,621 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.2.0.M2/spring-cloud-netflix-archaius-2.2.0.M2-sources.jar
+2020-05-01 01:19:26,684 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.2.0.M2/spring-cloud-netflix-archaius-2.2.0.M2-sources.jar
+2020-05-01 01:19:26,694 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-archaius:2.2.0.M2
+2020-05-01 01:19:32,385 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.2.0.M2/spring-cloud-netflix-archaius-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:32,443 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.2.0.M2/spring-cloud-netflix-archaius-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:32,454 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-netflix-archaius:2.2.0.M2
+2020-05-01 01:19:38,682 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.0.M2/spring-cloud-starter-netflix-ribbon-2.2.0.M2-sources.jar
+2020-05-01 01:19:38,741 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.0.M2/spring-cloud-starter-netflix-ribbon-2.2.0.M2-sources.jar
+2020-05-01 01:19:38,751 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.2.0.M2
+2020-05-01 01:19:40,679 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.0.M2/spring-cloud-starter-netflix-ribbon-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:40,735 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.0.M2/spring-cloud-starter-netflix-ribbon-2.2.0.M2-javadoc.jar
+2020-05-01 01:19:40,758 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.2.0.M2
+2020-05-01 01:19:41,107 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:19:41,107 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:19:41,108 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-01 01:19:41,108 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-01 01:19:41,109 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raijayant/eclipse-workspace/discovery-server/src/test/resources

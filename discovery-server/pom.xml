@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<spring-cloud.version>Hoxton.SR4</spring-cloud.version>
+		<spring-cloud.version>Hoxton.M2</spring-cloud.version>
 	</properties>
 
 	<dependencies>
@@ -32,10 +32,6 @@
 		  <version>2.3.0</version>
 		</dependency>
 		
-		<dependency>
-		  <groupId>jakarta.xml.bind</groupId>
-		  <artifactId>jakarta.xml.bind-api</artifactId>
-		  </dependency>
 			
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
@@ -52,6 +48,11 @@
 		    <artifactId>activation</artifactId>
 		    <version>1.1.1</version>
 		</dependency>
+		
+		<dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-tomcat</artifactId>
+</dependency>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -86,5 +87,13 @@
 			</plugin>
 		</plugins>
 	</build>
+	
+	<repositories>
+		<repository>
+			<id>spring-milestones</id>
+			<name>Spring Milestones</name>
+			<url>https://repo.spring.io/milestone</url>
+		</repository>
+	</repositories>
 
 </project>

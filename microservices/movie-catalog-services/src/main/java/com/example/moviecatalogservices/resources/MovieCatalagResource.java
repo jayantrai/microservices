@@ -33,7 +33,7 @@ public class MovieCatalagResource {
 				
 		
 		// we are calling two api
-		UserRating ratings = restTemplate.getForObject("http:localhost:8082/ratingsdata/users/" + userId, UserRating.class);
+		UserRating ratings = restTemplate.getForObject("http://localhost:8082/ratingsdata/users/" + userId, UserRating.class);
 		
 //		List<Rating> ratings = Arrays.asList(
 //				new Rating("1234", 4),
